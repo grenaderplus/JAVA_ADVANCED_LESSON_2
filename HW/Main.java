@@ -1,5 +1,7 @@
 package JAVA_ADVANCED.LESSON_2.HW;
 
+// прошу прощения за лишний текст, разбираюсь с гитом
+
 public class Main {
     static int SIZE = 4;
 

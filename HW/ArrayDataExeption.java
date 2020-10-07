@@ -1,5 +1,7 @@
 package JAVA_ADVANCED.LESSON_2.HW;
 
+// прошу прощения за лишний текст, разбираюсь с гитом
+
 public class ArrayDataExeption extends RuntimeException { // исключение по типу данных
     private int row;
     private int collumn;
