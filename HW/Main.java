@@ -3,7 +3,7 @@ package JAVA_ADVANCED.LESSON_2.HW;
 public class Main {
     static int SIZE = 4;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { // массив
         String [][] arr = {
                 {"1","45","54","6"},
                 {"452","65","56","w34"},

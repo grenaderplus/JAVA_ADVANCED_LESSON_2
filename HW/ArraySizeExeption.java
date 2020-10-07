@@ -1,6 +1,6 @@
 package JAVA_ADVANCED.LESSON_2.HW;
 
-public class ArraySizeExeption extends RuntimeException {
+public class ArraySizeExeption extends RuntimeException { // исключение по размеру массива
 
 
 }
